@@ -17,8 +17,6 @@
     padding-top: 200px;
     text-align: right;
     height: 228px;
-
-
 }
 
 .header-description {
@@ -27,7 +25,6 @@
     margin-bottom: 32px;
     text-align: right;
 }
-
 #btn-contact {
     background: #FFFFFF;
     border-radius: 5px;
@@ -38,31 +35,12 @@
     border: 0;
     padding: 21px 25px 20px 26px;
 }
-
-
-
-header {
-    background-image: url(../images/banner/banner3.png);
-    background-repeat: no-repeat;
-    height: 809px;
-    padding-top: 1px;  
-}
-
-
-.tick-mark {
-    color: #16D887;
-    margin-right: 10px;
-    margin-bottom: 9px;
-    margin-left: 87px;
-}
-
 .main-div {
     display: flex;
     margin-top: 130px;
     margin-left: 206px;
     margin-bottom: 130px;
 }
-
 .scnd-title {
     margin-top: 239px;
     margin-left: 87px;
@@ -74,7 +52,6 @@ header {
     height: 94px;
     margin-bottom: 24px;
 }
-
 .scnd-title-description {
     margin-left: 87px;
     font-weight: 400;
@@ -85,18 +62,30 @@ header {
     height: 104px;
     margin-bottom: 16px;
 }
-
 .tick-desc {
     margin-left: 87px;
     color: #444343;
     margin-top: 8px;
 }
-
-
+.tick-mark {
+    color: #16D887;
+    margin-right: 10px;
+    margin-bottom: 9px;
+    margin-left: 87px;
+}
+header {
+    background-image: url(../images/banner/banner3.png);
+    background-repeat: no-repeat;
+    height: 809px;
+    padding-top: 1px;  
+}
 
 /* my plan section */
 
 .third-title{
+    color: #151414;
+}
+/* .third-title{
     font-weight: 700;
 font-size: 40px;
 line-height: 47px;
@@ -104,7 +93,7 @@ color: #151414;
 text-align: center;
 height: 47px;
 margin-bottom: 50px;
-}
+} */
 
 .plans-container{
     display: flex;
