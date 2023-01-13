@@ -82,10 +82,8 @@ header {
 
 /* my plan section */
 
+
 .third-title{
-    color: #151414;
-}
-/* .third-title{
     font-weight: 700;
 font-size: 40px;
 line-height: 47px;
@@ -93,7 +91,7 @@ color: #151414;
 text-align: center;
 height: 47px;
 margin-bottom: 50px;
-} */
+}
 
 .plans-container{
     display: flex;
